@@ -6,8 +6,7 @@ This repository contains a collection of Python scripts for interactive web apps
 
 Follow the steps below to set up the environment and run the respective scripts.
 
-### 1. Install all required dependencies
-First, ensure you have Python installed, then install the required libraries:
+### 1. Install all required dependencies & Run
 
 ```bash
 pip install streamlit numpy matplotlib beautifulsoup4 requests
